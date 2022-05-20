@@ -1,0 +1,11 @@
+#navbarHeader {
+    padding: 20px
+}
+
+.list-unstyled {
+    display: flex;
+}
+
+.list-unstyled li {
+    margin: 10px;
+}
